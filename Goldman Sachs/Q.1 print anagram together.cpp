@@ -2,7 +2,6 @@ Question:
 1. Given an array of strings, return all groups of strings that are anagrams.
   
 Solution:
-
 //Initial Template for C++
 
 #include <bits/stdc++.h>
