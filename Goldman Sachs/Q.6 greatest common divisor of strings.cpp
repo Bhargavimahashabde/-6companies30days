@@ -5,13 +5,8 @@ Question:
    str3 such that str3 divides both str1 and str2.
      
 Solution:
-// { Driver Code Starts
-
 #include <bits/stdc++.h>
 using namespace std;
-
-// } Driver Code Ends
-//User function template for C++
 
 class Solution {
 public:
@@ -32,8 +27,6 @@ public:
     }
 };
 
-// { Driver Code Starts.
-
 int main()
 {
 	string str1;
@@ -44,6 +37,4 @@ int main()
 	cout<<ans<<endl;
 	return 0;
 }
-
-// } Driver Code Ends
 
