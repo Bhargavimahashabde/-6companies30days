@@ -1,5 +1,5 @@
 Question:
-3. Count the subarrays having product less than kgma
+3. Count the subarrays having product less than k
 
 Solution:
 // { Driver Code Starts
