@@ -1,9 +1,14 @@
 Question:
-6.  greatest common divisor of strings
+6. Greatest common divisor of strings
      
 Solution:
+// { Driver Code Starts
+
 #include <bits/stdc++.h>
 using namespace std;
+
+// } Driver Code Ends
+//User function template for C++
 
 class Solution {
 public:
@@ -24,6 +29,8 @@ public:
     }
 };
 
+// { Driver Code Starts.
+
 int main()
 {
 	string str1;
@@ -34,4 +41,6 @@ int main()
 	cout<<ans<<endl;
 	return 0;
 }
+
+// } Driver Code Ends
 
